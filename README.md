@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjawedaj" alt="ahmedjawedaj" /></a> </p>
 
-- 🔭 I’m currently working on [Alethea AI](https://alethea.ai)
+- 🔭 I’m currently working with [Alethea AI](https://alethea.ai)
 
 - 🌱 I’m currently learning **Blockchain, web3**
 
