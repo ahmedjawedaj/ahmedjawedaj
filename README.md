@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource**
 
-- 💬 Ask me about **Python, Django, DevOps, MlOps, Generative AI**
+- 💬 Ask me about **Python, Django, DevOps, MlOps, LLMs, Generative AI**
 
 - 📫 How to reach me **a.jawed@alethea.ai**
 
