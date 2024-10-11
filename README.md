@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed Jawed</h1>
-<h3 align="center">An enthusiastic self-starter with strong programming and development skills. Proven academic and curricular achievements, and possess the right soft skills required to propel the organisation achieving its goals and objectives.</h3>
+<h3 align="center">AI Enthusiast | Cloud Architect | Open-Source Contributor</h3>
+<h3 align="center">A passionate tech enthusiast with a strong background in programming, cloud architecture, and AI-driven solutions. I'm constantly learning and innovating to build scalable products.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjawedaj&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjawedaj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjawedaj" alt="ahmedjawedaj" /></a> </p>
 
-- 🔭 I’m currently working with [Alethea AI](https://alethea.ai)
-
-- 🌱 I’m currently learning **Blockchain, web3**
-
-- 👯 I’m looking to collaborate on **OpenSource**
-
-- 💬 Ask me about **Python, Django, DevOps, MlOps, LLMs, Generative AI**
+- 🔭 I’m currently building scalable AI products and decentralized solutions.
+- 🌱 I’m diving deeper into **Blockchain, Web3, Generative AI, and MLOps**.
+- 👯 Always open to **collaborating on Open Source projects**.
+- 🏆 Experienced in fine-tuning models like **Stable Diffusion, LLMs, and deploying AI at scale**.
+- 💬 Ask me about **Python, Django, Cloud Architecture, and ML**.
+- ⚡ Fun fact: I turned POCs into successful products, generating millions in revenue.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
